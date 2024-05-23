@@ -1,2 +1,3 @@
 # Ola Mundo
- Primeiro Repositorio dom Curso Git GitHub
+ Primeiro Repositorio do Curso Git GitHub
+ Aaron Gostozin
